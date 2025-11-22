@@ -42,7 +42,7 @@ Este repositório contém um arquivo de "Dump" SQL completo, que inclui tanto a 
 
 ### Passo a Passo
 
-1.  **Clone** este repositório ou baixe o arquivo `.sql` principal (ex: `cineflix_dump.sql`).
+1.  **Clone** este repositório ou baixe o arquivo `.sql` principal (ex: `cine _db.sql`).
 2.  Abra o **MySQL Workbench**.
 3.  Conecte-se à sua instância local.
 4.  Vá no menu **File > Open SQL Script...** e selecione o arquivo `.sql` que você baixou.
